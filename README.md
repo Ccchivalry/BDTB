@@ -1,5 +1,5 @@
 # BDTB
-A scrawler python file for BaiDuTieBa article.
+A scrawler python file for BaiDuTieBa article based on python2.7.
 This .py file is used for:
 1. Scrawing any article of any choosen users from BaiDuTieBa,
 2. Writing the contents into a txt file,
