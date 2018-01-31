@@ -1,4 +1,5 @@
 #author: Ccchivalry 2018/01/29
+# using python2.7
 
 import urllib
 import urllib2
